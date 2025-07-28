@@ -1,6 +1,6 @@
 # 🚀 Angular Design Patterns & Best Practices
 
-A comprehensive collection of **production-ready Angular design patterns** implemented as mini applications, since the angular framework has been evolving at a rapid pace, it becomes hard for the new and even experienced angular developers to incorporate all the modern patterns and practices in their applications, this repository serves as a practical guide for Angular developers who want to learn and implement proven patterns in their projects, 
+A comprehensive collection of **production-ready Angular design patterns** implemented as mini applications, since the angular framework has been evolving at a rapid pace, it becomes hard for the new and even experienced angular developers to incorporate all the modern patterns and practices in their applications, this repository serves as a practical guide for Angular developers who want to learn and implement proven patterns in their projects
 
 [![GitHub stars](https://img.shields.io/github/stars/aliabbas101/Angular-Design-Patterns?style=social)](https://github.com/aliabbas101/Angular-Design-Patterns)
 [![GitHub forks](https://img.shields.io/github/forks/aliabbas101/Angular-Design-Patterns?style=social)](https://github.com/aliabbas101/Angular-Design-Patterns)
