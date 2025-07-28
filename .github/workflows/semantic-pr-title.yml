@@ -3,8 +3,7 @@ name: PR Checks
 on:
   pull_request:
     branches:
-      - master
-      - dev
+      - main
 
 jobs:
   pr-title:
@@ -20,12 +19,4 @@ jobs:
             fix
             chore
             refactor
-          requireScope: true
-          headerPattern: '^(\w+)\(([A-Z]{2,}-\d+|rel\d{4}\.(?:[1-9]|1[0-2])\/main)\)\!?:\s?(.+)$'
-          headerPatternCorrespondence: type, scope, subject
-          subjectPattern: ^(?![A-Z]).{10,100}$
-          subjectPatternError: |
-            Please ensure that the subject doesn't start with an uppercase
-            character, and is between 10-100 characters.
-          ignoreLabels: |
-            ignore-pr-title
+            docs          
